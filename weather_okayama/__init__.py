@@ -1,0 +1,2 @@
+from .weather import Weather
+__all__ = [Weather.okayama_weather]
